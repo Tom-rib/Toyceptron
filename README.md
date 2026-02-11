@@ -233,8 +233,7 @@ act_relu(x)       # f(x) = max(0, x)
 
 ## 👨‍💻 Auteur
 
-**[Tom Ribero]** — Étudiant en Administration Systèmes et Réseaux (2e année)  
-Projet réalisé dans le cadre de [nom de l'école/formation]
+**[Tom Ribero]** — Étudiant en Administration Systèmes et Réseaux (2e année)
 **[Romain Jazzar]** — Étudiant en  data IA (2e année)  
 
 ---
